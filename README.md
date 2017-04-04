@@ -17,4 +17,4 @@ Work-in-progress OSS version of the CommitChange fundraising platform. This proj
 
 Bash scripts can be found in `/sh/*.sh`
 
-Views can be found in `/views/**/*.html.erb`
+Views can be found in `/views/*.erb`
